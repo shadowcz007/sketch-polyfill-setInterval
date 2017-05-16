@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sketch-pm/sketch-module-setInterval-polyfill.git"
+    "url": "git+https://github.com/skpm/sketch-module-setInterval-polyfill.git"
   },
   "keywords": [
     "sketch",
@@ -23,7 +23,7 @@
   "author": "Mathieu Dutour <mathieu@dutour.me> (http://mathieu.dutour.me/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sketch-pm/sketch-module-setInterval-polyfill/issues"
+    "url": "https://github.com/skpm/sketch-module-setInterval-polyfill/issues"
   },
-  "homepage": "https://github.com/sketch-pm/sketch-module-setInterval-polyfill#readme"
+  "homepage": "https://github.com/skpm/sketch-module-setInterval-polyfill#readme"
 }
