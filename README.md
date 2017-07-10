@@ -1,6 +1,6 @@
 # sketch-polyfill-setInterval
 
-A [setInterval](https://developer.mozilla.org/fr/docs/Web/API/WindowTimers/setInterval) polyfill for sketch.
+A [setInterval](https://developer.mozilla.org/fr/docs/Web/API/WindowTimers/setInterval) and [clearInterval](https://developer.mozilla.org/fr/docs/Web/API/WindowTimers/clearInterval) polyfill for sketch. It is automatically included (when needed) when using [skpm](https://github.com/skpm/skpm).
 
 ## Installation
 
